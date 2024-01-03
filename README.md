@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **bilalabdali1234@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/Bilalabdali1/Resume/blob/main/Syed%20Bilal%20Abdali_Resume.pdf](https://github.com/Bilalabdali1/Resume/blob/main/Syed%20Bilal%20Abdali_Resume.pdf)
+- 📄 [Know about my experiences](https://github.com/Bilalabdali1/Resume/blob/main/Syed%20Bilal%20Abdali_Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
