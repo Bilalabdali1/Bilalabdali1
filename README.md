@@ -10,10 +10,9 @@
 - 📫 How to reach me **bilalabdali1234@gmail.com**
 
 - 📄 [Know about my experiences](https://github.com/Bilalabdali1/Resume/blob/main/Syed%20Bilal%20Abdali_Resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bilal syed abdali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal syed abdali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bilal-syed-abdali-88b5401aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal syed abdali" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
