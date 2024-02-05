@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bilal Abdali👋</h1>
-<h3 align="center">An Enthusiastic Full Stack Developer with a flair for crafting elegant solutions in software development. Driven by passion, constantly exploring new technologies to create impactful web experiences</h3>
+<h3 align="center">An Enthusiastic Full Stack Developer with a passion for creating efficent solutions in software development. Driven by the passion of constantly exploring new technologies to create impactful web experiences</h3>
 
 - 🔭 I’m currently working on [Tripshare](https://github.com/Bilalabdali1/TripShare), an Android app designed to connect tourists and enhance their travel experiences.
 
